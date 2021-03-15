@@ -2,6 +2,7 @@ package com.crm.klientrilato.contactTest;
 
 import org.testng.annotations.Test;
 
+
 /**
  * 
  * @author Pooja
@@ -16,7 +17,8 @@ public class HomePage {
 		System.out.println("Create Home PageTest");
 	}
 	
-	public void homepagecreate(String name)
+	public void homepagecreate(String name,int num)
+
 	{
 		System.out.println("Home PAge Create");
 		
